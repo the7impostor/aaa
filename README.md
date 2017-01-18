@@ -1,1 +1,1 @@
-méh mindig
+tanulom a GitHub használatát
