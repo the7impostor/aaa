@@ -1,1 +1,1 @@
-# tanulom a program kezelését
+méh mindig
