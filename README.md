@@ -1,1 +1,1 @@
-# aaa
+# tanulom a program kezelését
